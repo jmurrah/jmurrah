@@ -6,4 +6,4 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmurrah&layout=compact&theme=radical&langs_count=20">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmurrah&layout=compact&theme=radical&langs_count=16">
