@@ -2,7 +2,7 @@
 #### I'm Jacob Murrah, a full stack software engineer with an eagerness to learn.
 
 
-- 🌐 Visit my [portfolio website](https://murrah.dev) for more information and to get in touch.
+- 🌐 Visit my [portfolio website](https://murrah.dev) for more information about me and how to get in touch.
 
 ---
 
