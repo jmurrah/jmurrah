@@ -2,4 +2,4 @@
 
 Never stop walking through the thorns.
 
-I'm currently building full-stack applications and failing forward.
+I'm currently building applications and failing forward.
