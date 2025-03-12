@@ -1,5 +1,5 @@
 ### Hi there ~ 👋
 
-Never stop walking through the thorns.
+Thomas Bayes is the 🐐
 
 I'm currently building applications and failing forward.
