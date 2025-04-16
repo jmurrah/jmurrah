@@ -3,7 +3,7 @@
 ## 🚀👉😊 About Me
 
 - I am **Jacob Murrah**, a **Software Engineer** studying at **Auburn University**
-- I am most skilled in **Full Stack Cloud Development**
+- I am skilled in **Full Stack Cloud Development**
 - I am interested in **Scalable System Design** in the cloud
 - I am continuously **Building Applications** and **Failing Forward**
 
