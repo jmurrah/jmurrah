@@ -1,6 +1,6 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 
-## 🚀👉😊 About Me
+## 🚀 About Me
 
 - I am **Jacob Murrah**, a **Software Engineer** studying at **Auburn University**
 - I am skilled in **Full Stack Cloud Development**
