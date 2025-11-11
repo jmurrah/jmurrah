@@ -8,7 +8,7 @@ class Jacob:
         self.title = "Full Stack Software Engineer"
         self.degrees = [
             "B.E. in Software Engineering @ Auburn",
-            "M.S. in Computer Science @ GTech"
+            "M.S. in Computer Science @ Georgia Tech"
         ]
         self.hobbies = ["Coding", "Gym", "Valorant", "Chess", "Anime"]
 ```
