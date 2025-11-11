@@ -1,15 +1,17 @@
+## About Me
+
 ```python
 class Jacob:
     def __init__(self):
         self.age = 22
         self.based_in = "Atlanta, GA"
-        self.major = "Computer Science"
+        self.title = "Full Stack Software Engineer"
+        self.degrees = [
+            "B.E. in Software Engineering @ Auburn",
+            "M.S. in Computer Science @ GTech"
+        ]
         self.hobbies = ["Coding", "Gym", "Valorant", "Chess", "Anime"]
 ```
-
-## About Me
-
-> Growth minded full stack software engineer.
 
 ## Website
 
