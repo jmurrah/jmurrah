@@ -4,7 +4,7 @@ class Jacob:
         self.age = 22
         self.based_in = "Atlanta, GA"
         self.major = "Computer Science"
-        self.hobbies = ["Coding", "Valorant", "Chess", "Anime"]
+        self.hobbies = ["Coding", "Gym", "Valorant", "Chess", "Anime"]
 ```
 
 ## About Me
