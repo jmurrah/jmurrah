@@ -1,10 +1,12 @@
-# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
+```python
+class Jacob:
+    def __init__(self):
+        self.age = 22
+        self.based_in = "Atlanta, GA"
+        self.major = "Computer Science"
+        self.hobbies = ["Coding", "Valorant", "Chess", "Anime"]
+```
 
-## 🚀 About Me
+## About Me
 
-- I am **Jacob Murrah**, a **Software Engineer** studying at **Auburn University**
-- I am skilled in **Full Stack Cloud Development**
-- I am interested in **Scalable System Design** in the cloud
-- I am continuously **Building Applications** and **Failing Forward**
-
-😎 Outside the tech world, I enjoy weight lifting, playing valorant, and learning chess.
+> Growth minded full stack software engineer.
