@@ -10,7 +10,7 @@ class Jacob:
             "B.E. in Software Engineering @ Auburn",
             "M.S. in Computer Science @ Georgia Tech"
         ]
-        self.hobbies = ["Coding", "Gym", "Valorant", "Chess", "Anime"]
+        self.hobbies = ["Coding", "Gym", "Valorant", "Anime", "Poker", "Chess"]
 ```
 
 ## Website
