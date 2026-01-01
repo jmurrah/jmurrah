@@ -4,7 +4,7 @@
 class Jacob:
     def __init__(self):
         self.age = 22
-        self.based_in = "Atlanta, GA"
+        self.location = "Atlanta, GA"
         self.specialities = ["Full Stack", "System Design", "Machine Learning"]
         self.degrees = [
             "B.E. in Software Engineering @ Auburn",
