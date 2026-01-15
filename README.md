@@ -3,7 +3,7 @@
 ```python
 class Jacob:
     def __init__(self):
-        self.age = 22
+        self.age = 23
         self.location = "Atlanta, GA"
         self.specialities = ["Full Stack", "System Design", "Machine Learning"]
         self.degrees = [
